@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .vs/
 url = <URLhttps://github.com/LeonardoDLima-dev/LibrarySystem.git>
+=======
+.vs/
+[submodule "LibrarySystem"]
+    path = LibrarySystem
+    url = https://github.com/LeonardoDLima-dev/Library-system.git
+>>>>>>> 7f0ed487e95dbf5044be336b784cec0089456893
