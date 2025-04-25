@@ -1,1 +1,4 @@
 .vs/
+[submodule "LibrarySystem"]
+    path = LibrarySystem
+    url = https://github.com/usuario/LibrarySystem.git
